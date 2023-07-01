@@ -1,0 +1,1 @@
+{"menu": {"dishes": [{"dish_id": 1, "name": "samosa", "price": 10.0, "availability": "yes"}]}, "order_manager": {"orders": [{"order_id": 1, "customer_name": "kirti", "dish_ids": [1], "status": "received"}], "current_order_id": 2}}
